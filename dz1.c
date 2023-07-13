@@ -1,5 +1,6 @@
 #include"stdio.h"
-int main(){    
+int main(){ 
+   
     unsigned char b;
     int b1,b2,b3,b4;
     int a = 0xDDCCBBAA;
